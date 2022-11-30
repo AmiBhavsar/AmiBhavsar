@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ami Bhavsar</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amibhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="amibhavsar" /> </p>
-
+-->
 - 🔭 I’m currently working on **market Mix model**
 
 - 🌱 I’m currently learning **Deep learning**
