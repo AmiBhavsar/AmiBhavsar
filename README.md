@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ami 😄
+
 
 <h1 align="center">Hi 👋, I'm Ami Bhavsar</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
