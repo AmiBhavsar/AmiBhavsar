@@ -5,9 +5,14 @@
 
 
 
-<h3 align="left">About:</h3>
+👨‍💻 **About** **Me**:
 
-* A curiosity-driven data scientist, eager to leverage machine learning and data analytics to extract meaningful insights, detect object and segmentation and tracking using different algorithms, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork.
+I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Computer Engineering) from India.   
+- 🌱 I’m currently learning **Data Science**
+- 👯 I’m looking to collaborate on Data Science Projects
+- 💬 You can reach me on: amibhavsar1404@gmail.com
+- 📫 You can follow me on LinkedIn: https://www.linkedin.com/in/ami-bhavsar-95348119a
+- 😄 Feel free to contact me
 
 <h3>Skillsets :</h3>
 
@@ -50,7 +55,10 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amibhavsar&show_icons=true&locale=en&layout=compact" alt="amibhavsar" /></p>
-
+<div id="badges">
+  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 	  
 <div align=center>
 Show some ❤️ by starring some of the repositories!
