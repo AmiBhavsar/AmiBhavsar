@@ -51,17 +51,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amibhavsar&show_icons=true&locale=en&layout=compact" alt="amibhavsar" /></p>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=shubhamjitiya&theme=minimal"/>
-</p>
-
-## ✍️Random Dev Quote :
-	  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-[![](https://visitcount.itsvg.in/api?id=shubhamjitiya&icon=0&color=1)](https://visitcount.itsvg.in)
-
 	  
 <div align=center>
 Show some ❤️ by starring some of the repositories!
