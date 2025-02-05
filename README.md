@@ -1,18 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Ami Bhavsar</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
-
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Ami Bhavsar</h1>
+<h2 align="center"> Data Scientist </h2>
 
 
 👨‍💻 **About** **Me**:
 
 I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Computer Engineering) from India.   
-- 🌱 I’m currently learning **Data Science**
-- 👯 I’m looking to collaborate on Data Science Projects
-- 💬 You can reach me on: amibhavsar1404@gmail.com
-- 📫 You can follow me on LinkedIn: https://www.linkedin.com/in/ami-bhavsar-95348119a
-- 😄 Feel free to contact me
+## About
+
+* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
+* I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
 <h3>Skillsets :</h3>
 
@@ -78,11 +76,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Nitin Ravat </h1>
-<h2 align="center"> Data Scientist </h2>
-
 ## Technical Skills
 * Python Programming (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras)
 * NLP (Language Transformers)
@@ -93,10 +86,7 @@ Here are some ideas to get you started:
 * Data Visualization Tools (Tableau, Power BI, Google Data Studio, Apache Hadoop, Google BigQuery)
 * Cloud Deployment (Azure VM - linux/windows)
 
-## About
 
-* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
-* I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
 
 ## Work Experience
