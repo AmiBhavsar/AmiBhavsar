@@ -5,9 +5,11 @@
 
 ## About Me
 Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
+<br>
 I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
 <h3> Technical Skills</h3>
+## About Me
 * **Programming:** Python, R, SQL, C++, Java, HTML/CSS
 * **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, Transformers, Reinforcement Learning
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
@@ -16,6 +18,7 @@ I offer freelance consultancy services, assisting with various PhD research proj
 * **Specialized Domains:** Natural Language Processing (NLP), Computer Vision, Time Series Analysis
   
 <h3> Soft Skills: </h3>
+## About Me
 * Problem-Solving
 * Critical Thinking
 * Strong Work Ethic
@@ -60,6 +63,7 @@ I offer freelance consultancy services, assisting with various PhD research proj
 [<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
+<br>
 
 <!-- <hr>
 
@@ -68,30 +72,9 @@ I offer freelance consultancy services, assisting with various PhD research proj
 
 <hr> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amibhavsar&show_icons=true&locale=en&layout=compact" alt="amibhavsar" /></p>
-<div id="badges">
-  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 	  
 <div align=center>
 Show some ❤️ by starring some of the repositories!
-
-<!--
-**AmiBhavsar/AmiBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 <br>
