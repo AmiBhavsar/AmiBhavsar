@@ -58,10 +58,12 @@ I offer freelance consultancy services, assisting with various PhD research proj
 [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
 <br>
-	  
+<br>
+
 <div align=center>
 Show some ❤️ by starring some of the repositories!
 
+<br>
 <br>
 
 [linkedin]: https://www.linkedin.com/in/nitin-ravat-32367914b/](https://www.linkedin.com/in/ami-bhavsar-95348119a/
