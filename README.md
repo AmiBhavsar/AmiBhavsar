@@ -8,8 +8,9 @@ Experienced Data Scientist with over 2 years of expertise in utilizing machine l
 <br>
 I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
-<h3> Technical Skills</h3>
-## About Me
+<h3> </h3>
+## Technical Skills
+
 * **Programming:** Python, R, SQL, C++, Java, HTML/CSS
 * **Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, Transformers, Reinforcement Learning
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
@@ -17,8 +18,9 @@ I offer freelance consultancy services, assisting with various PhD research proj
 * **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP (Hugging Face)
 * **Specialized Domains:** Natural Language Processing (NLP), Computer Vision, Time Series Analysis
   
-<h3> Soft Skills: </h3>
-## About Me
+<h3>  </h3>
+## Soft Skills
+
 * Problem-Solving
 * Critical Thinking
 * Strong Work Ethic
