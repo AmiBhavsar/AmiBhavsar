@@ -1,10 +1,8 @@
 
 
-<h1 align="center">Hi , I'm Ami Bhavsar <img src="https://slackmojis.com/emojis/7500-partyparrot/download" width="30"/> </h1>
+<h1 align="center">Hi , I'm Ami Bhavsar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 <h2 align="center"> Data Scientist </h2>
-<---
-  https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](
---->
+
 ## About Me
 
 Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
