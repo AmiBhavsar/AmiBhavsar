@@ -5,27 +5,27 @@
 
 ## About Me
 
-* Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
-* I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
+Experienced Data Scientist with over 2 years of expertise in utilizing machine learning, statistical modeling, and deep learning solutions to drive business insights and inform strategic decision-making. I have a proven track record of developing innovative data solutions that enhance operational efficiency and improve product accuracy. My experience includes delivering AI products with high accuracy. I am proficient in Python, SQL, and various machine learning frameworks, and I possess strong analytical and problem-solving skills.
+I offer freelance consultancy services, assisting with various PhD research projects as well as contract work for third-party organizations. Leveraging my expertise in the data science domain, I help clients address and solve complex, critical challenges in their respective fields. My experience includes collaborating with academic researchers and businesses, providing them with tailored solutions, and guiding them through data-driven decision-making processes. This blend of research-oriented and industry-driven problem-solving enables me to contribute effectively to diverse projects, helping clients achieve their objectives with precision.
 
 <h3>Skillsets :</h3>
 
 ## Technical Skills
-•	Programming: Python, R, SQL, C++, Java, HTML/CSS;
-•	Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, Transformers, Reinforcement Learning;
-•	Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau;
-•	Databases: MySQL, MongoDB, PostgreSQL;
-•	Frameworks & Tools: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP (Hugging Face);
-•	Specialized Domains: Natural Language Processing (NLP), Computer Vision, Time Series Analysis;
+* Programming: Python, R, SQL, C++, Java, HTML/CSS
+* Machine Learning & AI: Supervised & Unsupervised Learning, Deep Learning, Transformers, Reinforcement Learning
+* Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+* Databases: MySQL, MongoDB, PostgreSQL
+* Frameworks & Tools: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP (Hugging Face)
+* Specialized Domains: Natural Language Processing (NLP), Computer Vision, Time Series Analysis
+  
 ## Soft Skills: 
 
-Problem-Solving, Critical Thinking, Strong Work Ethic, Communication, Adaptability;
+* Problem-Solving
+* Critical Thinking
+* Strong Work Ethic
+* Communication
+* Adaptability
 
-* Skilled in Python (pandas, numpy, statsmodels, matplotlib, seaborn, scikit-learn, convolution neural networks tensorflow, keras); ,SQL (queries, joins, aggregations),Flask Api, Git (version control), git, Tableau.
-
-* Proficient in Machine Learning algorithms Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, Naive-Bayes, k-NN, PCA, k-means Clustering; Loss functions, Optimization Functions.
-
-* Statistical modelling, Linear Algebra, Hypothesis testing, Evaluation Metrics, Predictive Analytics, Time-series Analysis, RegularExpressions.
 
 ### My Hobbies -
 * Coding
