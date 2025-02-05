@@ -68,23 +68,6 @@ I offer freelance consultancy services, assisting with various PhD research proj
 
 <hr> -->
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- 	
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-	 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amibhavsar&show_icons=true&locale=en&layout=compact" alt="amibhavsar" /></p>
 <div id="badges">
   <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
@@ -108,19 +91,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Technical Skills
-* Python Programming (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras)
-* NLP (Language Transformers)
-* Machine Learning (Regression, Classification, Clustering Algorihms)
-* Deep Learning (ANN, CNN, Vision Transformers)
-* Statistical Analysis (Descriptive Statistics, Inferential Statistics, Time Series Analysis)
-* Computer vision
-* Data Visualization Tools (Tableau, Power BI, Google Data Studio, Apache Hadoop, Google BigQuery)
-* Cloud Deployment (Azure VM - linux/windows)
-
-
-
 
 
 
