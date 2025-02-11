@@ -28,6 +28,8 @@ I offer freelance consultancy services, assisting with various PhD research proj
 * Communication
 * Adaptability
 
+
+<---
 ## Work Experience
 **Data Scientist @ Prompt Dairytech (_August 2023 - Present_)**
 - As a Data Scientist at Prompt Dairy Tech, I focus on developing machine learning ( ML) and deep learning ( DL) solutions.
@@ -52,6 +54,8 @@ I offer freelance consultancy services, assisting with various PhD research proj
 - Developed a solution for plant disease classification and localization using pre-trained models, ResNet-50 and YOLOv8. The achieved classification accuracy is 97%, and the IoU score is 95%.
 
 ### I have been involved in numerous projects, but due to confidentiality agreements, I am unable to provide specific details or discuss them openly. Many of these projects are tied to sensitive PhD research work or are personal initiatives of my clients, which require strict discretion.
+--->
+
 
 #### You can also find me on- 
 
